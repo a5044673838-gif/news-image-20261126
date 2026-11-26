@@ -6,7 +6,7 @@
 
 A one-day world news infographic for make.fun's "Sum up 26 November's world
 news in one image" bounty ($100 shared pot). The program draws a 1024x1024
-PNG with six verified stories first reported on Thursday 26 November 2026:
+PNG with six verified stories from the 26 November 2026 news cycle:
 North Korea expelling Switzerland's envoy, the first Pakistani astronaut
 reaching China's Tiangong station aboard Shenzhou-24, Bangladesh's 36%
 garment-worker pay rise, the Australia-Solomon Islands pact, the US
